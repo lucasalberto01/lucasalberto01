@@ -10,7 +10,7 @@ Feel free to explore my projects and discover how technology can be fascinating 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alberto10)](https://www.linkedin.com/in/lucas-alberto10)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Dev_LucasAlberto)](https://t.me/Dev_LucasAlberto)
 ____
-<div align="center" style="width: '100%'">
+<!-- <div align="center" style="width: '100%'">
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=lucasalberto01&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalberto01&layout=compact&langs_count=7"/>
-</div>
+</div> -->
